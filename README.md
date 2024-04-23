@@ -33,4 +33,6 @@
 
 ---
 
-\* emoji layouts loosely inspired by [gitmoji](https://gitmoji.dev/), my favorite commit ettiquette policy 😁 (frc pls)
+\* emoji layouts loosely inspired by [gitmoji](https://gitmoji.dev/), my favorite commit ettiquette policy :blobheart:
+
+made as a FRC specific training resource, will be openly available for all to use as a git cheat sheet + self administered test. 
