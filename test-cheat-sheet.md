@@ -47,7 +47,7 @@ pls checkout the [official git cheat sheet](https://training.github.com/download
 | ------ | ----------- |
 | `git branch <branch name>` | create a branch |
 | `git checkout <branch name>` | switch over to given branch, you will see HEAD is now pointing to the given branch |
-| `git rebase &lt;branch name>` | set the reference of your current branch to given branch, think of it as applying all commits on your current branch on top of given branch |
+| `git rebase <branch name>` | set the reference of your current branch to given branch, think of it as applying all commits on your current branch on top of given branch |
 | `git rebase -i <branch name>` | # interactive rebase: useful to pick/squash/drop commits while rebasing before creating a pull |request; tip: see [editing with vim](#editing-with-vim) and [resolving merge conflicts](#resolving-merge-conflicts) |
 | `git rebase -i <commit_id>` | interactive rebase: useful to pick/squash/drop commits on your own branch to clean up; tip: see [editing with vim](#editing-with-vim) |
 
