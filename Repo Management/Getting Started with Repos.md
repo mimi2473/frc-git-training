@@ -8,6 +8,6 @@ So to clone this repo follow the link to [the frc-git-training](https://github.c
 
 ## Navigating to the Repo
 
-Use the command `cd <path where the repo is saved>`.
+Use the command `cd "<path where the repo is saved>"`.
 
 Once in the right folder you can move on to the next Activity: [Branch Setup](/Branch%20Setup/).

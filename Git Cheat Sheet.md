@@ -117,13 +117,13 @@ When prompted to resolve merge conflicts, do the following:
 Merge conflicts will show up as such:
 
 
-    <&lt;<&lt;<&lt;< HEAD \
+<&lt;<&lt;<&lt;< HEAD \
 changes on destination_branch \
 vs code labels this “current changes” \
 ======= \
 changes on your_branch that the current commit is trying to apply \
-vs code labels this “incoming changes” \
->>>>>>> your_branch
+vs code labels this “incoming changes” \ 
+    >>>>>>> your_branch
 
 You can choose to keep only current changes, only incoming changes, or make a branch new change, which may include changes from both branches. Basically, you want this section of code to match your desired output after the merge.
 

@@ -1,0 +1,2 @@
+# Pull Requests
+When you develop something and want to add it to the main branch you can't push it directly to the main branch. Instead you must create a pull requst to merge or rebase changes in your branch onto main. This is not much of a tutorial but just an explanation of how Merge and Rebase work and what you would want to use
