@@ -1,6 +1,22 @@
-# git installations
+# git setup :sunglasses:
 
-## install git bash! :computer:
+1. make a github account.
+2. request to join the [CHSR 2024](https://github.com/orgs/Tino-FRC-2473/teams/software-2024) team.
+3. install git following instructions in [the section below](#install-git-bash-desktop).
+4. configure your local git environment by entering these commands in the terminal:
+
+``` 
+    Set your name: 
+    git config --global user.name <firstname lastname>
+
+    Set your email 💞: 
+    git config --global user.email <your email>
+
+    (optional) Always rebase on branch pulls: 
+    git config --global branch.autosetuprebase always
+```
+
+## install git bash! :desktop:
 
 ### windows :window:
 - the easiest way to install git is via [this link](https://git-scm.com/download/win).

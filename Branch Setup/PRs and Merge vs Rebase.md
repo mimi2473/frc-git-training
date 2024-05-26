@@ -1,4 +1,0 @@
-# Pull Requests
-When you develop something and want to add it to the main branch you can't push it directly to the main branch. Instead you must create a pull requst to merge or rebase changes in your branch onto main. This is an explanation of how Merge and Rebase work and what you would want to use depending on the situation. For FRC we will only use merge with creating pull requests but it's also important to know the Difference between Merge and Rebase and what you should use in the future.
-
-That's all about Pull Requests. You can head on over the [Merge vs Rebase](<Merge vs Rebase.md>) to learn more about the two options.

@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://github.com/beranki/git-training-mock/assets/77950550/4aa2d1e5-b3b6-4744-abec-8d73408059a2" />
-</p>
+> :warning: **make commits to this file in your seperate branch! this file is NOT to be modified in the `master` branch!**
+
+---
+
+add your name to this file below:
+[*enter name here*]
+
+enter a fun fact about yourself below:
+[*enter fun fact here*]
 
 ---
 
@@ -33,4 +39,7 @@
 
 \* emoji layouts loosely inspired by [gitmoji](https://gitmoji.dev/), my favorite commit ettiquette policy :blobheart:
 
-made as a FRC specific training resource, will be openly available for all to use as a git cheat sheet + self administered test. 
+---
+
+approval status: ___
+signed by: ___

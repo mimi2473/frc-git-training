@@ -1,5 +1,9 @@
 # branches 🌿
 
+## what is a branch? 🤔
+when you want to work on a certain part of a project (e.g new feature), instead of working directly on `main`, it's wiser to create another branch and later merge into main (or cherry-pick commits from your dev branch onto the main branch) once you have fixed any bugs with the new feature. this helps us keep the main branch clean and free of any issues.
+- this is the most common practice in robotics, as you will see many of the projects that we will work on are developed in seperate test branches, and only merged into main if they are meant to be used for the final robot codebase.
+
 ## create a branch + navigate to it! 🔀
 1. make sure you are on the master branch by entering `git checkout master`, this will navigate you to the master branch.(use `git checkout <branch-name>` to navigate to different branches.)
 2. then to create the branch use `git branch git-training-first_name-last_initial`
