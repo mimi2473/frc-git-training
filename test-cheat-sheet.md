@@ -1,6 +1,6 @@
 **Team repository:** https://github.com/Tino-FRC-2473
 
-pls checkout the [official git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet/)! you may refer to this if something in this cheat sheet is unclear.
+pls checkout the [official git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet/)! you may refer to it if something in this cheat sheet is unclear.
 
 ---
 
