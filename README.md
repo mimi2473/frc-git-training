@@ -10,28 +10,21 @@ enter a fun fact about yourself below:
 
 ---
 
-## Topics to cover
+## TABLE OF CONTENTS
 
-- Repo Management + Diagramming~ 📝🧱
-  - Cloning Repo
-  - Diagram Based Training
-    - Repo &rarr; Diagram
-    - Diagram &rarr; VC + Branch Setup
-- Branch Setup 🔀🎋
-  - Create Branch
-  - Navigate to Branch
-  - Create Pull requests and Merge
-  - Rebase
-  - Cherry picking commits from one branch to another
-- Version Control 🔄🔖
-  - Push and Pull changes 
-  - Stage and Commit changes 
-  - Difference between Fetch and Pull 
-  - Commit/Push management 
-    -  Squash pushed changes 
-    -  Deleting accidental commits
-    -  Tagging commits 
-  - Resolving Merge Conflicts
+1) [repo-management](./repo-management) 📺
+    - **[Install Git](./repo-management/git-install.md)** <<
+    - **[Setup the Repository](./repo-management/repo-setup.md)** <<
+    
+2) [branch-setup](./branch-setup) 🎋
+    - **[Create a Branch](./branch-setup/create-a-branch.md)** <<
+    - [What are PRs? Merge vs. Rebase](./branch-setup/prs.md)
+    
+3) [version-control](./version-control) 🔄
+    - [Squashing Commits](./version-control/squashing.md)
+    - **[Cherry Picking and Tagging Commits](./version-control/cherry-and-tagging.md)** <<
+
+\* bolded lessons in ToC are ones required to follow through for practical. we heavily suggest walking through ALL lessons, but in order to be eligible to take the practical, you MUST have the steps in the bolded lessons completed.
 
 ---
 
@@ -42,4 +35,5 @@ enter a fun fact about yourself below:
 ---
 
 approval status: ___
+
 signed by: ___
