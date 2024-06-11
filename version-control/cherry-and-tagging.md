@@ -40,6 +40,8 @@
 - To see the state of a repo @ a tag, `git checkout <tagname>`
     - When you do this, any changes you make based on this state of the repo will be associated with a detached HEAD - this is why it's good practice to make a new branch you're making any changes based on the state of the repo @ a tagged commit.
 
+![Tagging Diagram](./imgs/tagging.png)
+
 ### Tagging Exercise
 - At this point, if you'll followed the instructions from the [branch-setup exercises](../branch-setup/create-a-branch.md), you'll have created a branch and should now have 2 commits.
 - Run `git log` to see the commit logs of the branch you're working on. Tag the second to last commit with the following tag: `<firstname> <lastname> <date> - anchor point for practical`.
