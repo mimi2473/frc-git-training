@@ -22,7 +22,7 @@ When you want to work on a certain part of a project (e.g new feature), instead 
     - `"(add/remove/delete) <present tense statement of what change you made>"`
 7. Now add a new file in 📁: /branch-setup, called `new-file-first_name-last_initial`.
 8. Stage the newly created file and commit ! (steps 4-6)
-9. Now write the name  of a software language that you know in the file. (or anything that is workplace friendly should be fine - the content of the file is unimportant for the exercise)
+9. Now write the name of a software language that you know in the file. (or anything that is workplace friendly should be fine - the content of the file is unimportant for the exercise)
 10. Stage the changes to the file and commit. (steps 4-6)
 
 If you have completed everything in this document, you are set up for the practical. 
