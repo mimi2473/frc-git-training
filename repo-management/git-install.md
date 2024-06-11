@@ -14,6 +14,9 @@
 
     (optional) Always rebase on branch pulls: 
     git config --global branch.autosetuprebase always
+
+    (optional) Set VS Code as your default editor for git
+    git config --global core.editor "code --wait"
 ```
 
 ## install git bash! :desktop:
