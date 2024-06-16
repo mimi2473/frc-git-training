@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+*Bhargav Eranki*
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+*I have a pet parakeet.*
 
 ---
 
@@ -34,6 +34,6 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
-
-signed by: ___
+approval status: *
+signed by: BE
+date: 6/16/2024
