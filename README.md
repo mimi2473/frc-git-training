@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Aaron Dbritto
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I like skiing
 
 ---
 
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: approved
 
-signed by: ___
+signed by: AD
+
+date: 6/17/2024
