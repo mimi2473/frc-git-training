@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+[*mridula r*]
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+[*i play water polo*]
 
 ---
 
